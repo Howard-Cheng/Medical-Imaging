@@ -1,6 +1,3 @@
-# License: BSD
-# Author: Sasank Chilamkurthy
-
 from __future__ import print_function, division
 
 import torch
